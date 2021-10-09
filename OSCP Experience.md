@@ -78,7 +78,7 @@ Windows Priv Escalation For Pen Testers https://pentest.blog/windows-privilege-e
 
 Elevating Privileges to Admin and Further https://hackmag.com/security/elevating-privileges-to-administrative-and-further/
 
-Transfer files to windows machines https://blog.netspi.com/15-ways-to-download-a-file/
+https://gabb4r.gitbook.io/oscp-notes/windows-post-exploitation/manual-exploitaion
 
 Windows-Privesc/windows privesc sectalks BNE0x19.pdf https://github.com/codingo/Windows-Privesc/blob/master/windows%20privesc%20sectalks%20BNE0x19.pdf
 
