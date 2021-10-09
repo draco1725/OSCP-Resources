@@ -10,21 +10,27 @@ Pentest-Cheat-Sheets
 
 This repo has a collection of snippets of codes and commands to help our lives! The main purpose is not be a crutch, this is a way to do not waste our precious time! This repo also helps who trying to get OSCP. You'll find many ways to do something without Metasploit Framework.
 
-Link:-https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets
+Link:-
+
+https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets
 
 Hacking/OSCP cheatsheet
+
 https://ceso.github.io/posts/2020/04/hacking/oscp-cheatsheet/
 
 All about OSCP:-
+
 https://oscp.infosecsanyam.in/
 
-OSCP preparation
+OSCP preparation:-
+
 https://github.com/rewardone/OSCPRepo
 
 https://github.com/0x4D31/awesome-oscp#resources
 https://ired.team/offensive-security-experiments/
 
 OSCP methodology:-
+
 https://paper.dropbox.com/doc/OSCP-Methodology-EnVX7VSiNGZ2K2QxCZD7Q
 
 https://github.com/OlivierLaflamme/Cheatsheet-God
